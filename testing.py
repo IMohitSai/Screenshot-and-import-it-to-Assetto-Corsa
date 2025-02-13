@@ -14,3 +14,5 @@ while True:
 
     # Save the screenshot with the current timestamp as part of its name
     image.save(f"{filename_format.format(formatted_timestamp)}.png")
+
+#this is still a WIP and will be improved upon
